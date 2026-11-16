@@ -1,0 +1,175 @@
+
+MAPLEWOOD COMMUNITY LIBRARY: A FICTIONAL MEMBER GUIDE
+
+1. About the Library
+Maplewood Community Library is a fictional public library in the town of
+Maplewood. This guide is sample data for learning retrieval-augmented
+generation, also called RAG. All names, addresses, prices, and policies
+in this guide are invented. The library helps residents borrow books,
+use computers, study quietly, and attend community events. Its main
+building is at 24 Cedar Lane, next to the town garden. The library has
+two floors. The ground floor contains the welcome desk, children's
+section, computer area, and community room. The upper floor contains
+adult fiction, reference books, quiet study tables, and meeting rooms.
+
+2. Opening Hours
+The main library opens from 9:00 AM to 7:00 PM on Monday through
+Thursday. On Friday, it opens from 9:00 AM to 5:00 PM. Saturday hours
+are 10:00 AM to 4:00 PM. The main library is closed on Sunday.
+The outdoor return box is available at all hours, including Sundays.
+Computers shut down fifteen minutes before the building closes.
+The children's reading garden closes thirty minutes before sunset
+or when the building closes, whichever happens first. During severe
+weather, staff may close the building early and post a notice on
+the front door and the library website.
+
+3. Getting a Library Card
+A library card is free for people who live in Maplewood. Adults must
+bring a photo ID and proof of their current address to the welcome
+desk. A recent utility bill or rental agreement counts as proof of
+address. Children under sixteen need a parent or guardian to sign
+their application. People who live outside Maplewood can purchase
+a visitor membership for 20 dollars per year. A replacement for a
+lost card costs 2 dollars. Members should report a lost card quickly
+so staff can prevent other people from borrowing items with it.
+Library cards expire after three years and can be renewed for free
+when a resident confirms their contact information.
+
+4. Borrowing Books and Other Items
+A member may borrow up to ten physical items at one time. Ordinary
+books can be borrowed for twenty-one days. Magazines can be borrowed
+for seven days, and DVDs can be borrowed for five days. Reference
+books marked with a red sticker must stay inside the library.
+Members may borrow up to two board games as part of their ten-item
+limit. Board games have a fourteen-day borrowing period. Staff check
+the game pieces when a board game is returned. Borrowing a book does
+not reserve a study room or give access to a paid workshop. Those
+services have separate booking rules.
+
+5. Renewals and Reservations
+Ordinary books may be renewed twice if another member has not
+reserved them. Each renewal adds twenty-one days from the renewal
+date. Magazines and DVDs cannot be renewed. Members can renew
+eligible items through their online account or at the welcome desk.
+A member may place up to five reservations at once. When a reserved
+item becomes available, the library sends an email notification.
+The item stays on the pickup shelf for three opening days. After
+that, it goes to the next person in the reservation queue.
+Reservations are free, and members can cancel them at any time.
+
+6. Late, Lost, and Damaged Items
+Maplewood Community Library does not charge daily late fees for
+ordinary books. However, an item more than fourteen days overdue
+temporarily blocks the member from borrowing additional physical
+items. Returning the overdue item removes that block. If an item
+is forty-five days overdue, it is marked as lost. The member must
+return the item or pay its replacement cost. A damaged item may
+also require a replacement payment if it can no longer be used.
+Staff review minor damage, such as a small tear, before deciding
+whether a payment is necessary. Members should not repair books
+with household tape because it can damage the pages further.
+
+7. Digital Books and Audiobooks
+Members with an active library card can borrow digital books and
+audiobooks through the fictional MapleRead service. Each member may
+have four digital loans at a time. Digital loans last fourteen days
+and return automatically, so they never generate late fees. A member
+can download a borrowed title for offline reading or listening.
+Some popular titles have waiting lists because the library owns
+a limited number of digital licenses. Digital loans are separate
+from the ten-item physical borrowing limit. A member who has ten
+physical items checked out can still borrow four digital titles.
+
+8. Computers, Wi-Fi, and Printing
+The ground floor has twelve public computers. Members can reserve
+a computer for one hour per day. Staff may extend a session by
+thirty minutes if nobody is waiting. Free Wi-Fi is available
+throughout the building, and using it does not require a library
+card. Black-and-white printing costs 10 cents per page. Color
+printing costs 50 cents per page. Scanning documents to a USB drive
+is free. The library does not sell USB drives. Files saved on public
+computers are deleted when the session ends, so visitors should
+save their work before logging out. Staff can explain basic printing
+steps but cannot enter passwords or complete private forms for users.
+
+9. Study Rooms and Meeting Spaces
+The upper floor has three study rooms named Oak, Birch, and Pine.
+Oak holds two people, Birch holds four, and Pine holds six.
+Study rooms are free for members and can be booked up to seven
+days in advance. Each member can book a maximum of two hours per
+day. A booking is released if the member arrives more than fifteen
+minutes late without contacting staff. The ground-floor community
+room holds thirty people and is intended for group events. Local
+nonprofit groups may use the community room for free. Other groups
+pay 15 dollars per hour. Community room bookings require at least
+three days of notice and approval from the events coordinator.
+
+10. Children's Programs
+Storytime takes place every Tuesday at 10:30 AM in the children's
+section. It is designed for children aged three to six and lasts
+forty-five minutes. A parent or guardian must remain with each
+child. No registration is required for storytime. The Saturday
+Building Club meets at 11:00 AM in the community room and is for
+children aged seven to twelve. Building Club requires registration
+because only fifteen spaces are available. All building materials
+are provided. Children may photograph their creations, but the
+materials must remain at the library for the next session.
+
+11. Adult Workshops and Reading Groups
+The beginner computer workshop runs on the first Wednesday of each
+month from 2:00 PM to 3:30 PM. It covers using a mouse, browsing
+the internet, and organizing files. The workshop is free, but
+registration is required because only eight places are available.
+The evening reading group meets on the third Thursday of each
+month at 6:00 PM in the community room. Members discuss one novel
+selected at the previous meeting. Joining the reading group is
+free, and participants do not need to finish the book to attend.
+A separate creative writing workshop costs 5 dollars per session
+to cover printed materials and is limited to twelve participants.
+
+12. Accessibility and Visitor Facilities
+The main entrance has a ramp and automatic doors. An elevator
+connects the ground floor and the upper floor. Accessible restrooms
+are available on both floors. Large-print books are located beside
+the adult fiction shelves. Members can ask staff for a portable
+magnifier or headphones at the welcome desk. Service animals are
+welcome inside the building. Bicycle racks are near the main
+entrance, and the small parking lot has two accessible spaces.
+Covered drinks are allowed at general reading tables, but food
+and drinks must stay outside the computer area and reference room.
+
+13. Donations and Volunteering
+The library accepts clean, gently used books published within the
+last ten years. It does not accept damaged books, old textbooks,
+or incomplete board games. Donations can be brought to the welcome
+desk on Fridays between 10:00 AM and 3:00 PM. Staff may add donated
+books to the collection or sell them at a community fundraiser.
+Volunteers must be at least sixteen years old and commit to two
+hours per week for three months. Volunteer tasks include arranging
+shelves, preparing event materials, and helping with the reading
+garden. Volunteers do not handle membership payments or access
+private borrowing records.
+
+14. The Riverside Pickup Branch
+Maplewood also operates a small pickup branch at 8 River Street.
+The Riverside branch opens only on Tuesday and Thursday, from
+12:00 PM to 6:00 PM. It has a reservation pickup shelf and an indoor
+return desk, but no public computers, study rooms, or printing
+service. Members choose their pickup location when placing a
+reservation. Moving an available item from the main library to
+Riverside usually takes two opening days. Riverside does not have
+an outdoor return box, so returns there are accepted only while
+the branch is open. The main library's outdoor return box remains
+available at all hours.
+
+15. Getting Help and Suggesting Books
+The welcome desk handles membership questions, borrowing problems,
+and general directions. The events coordinator handles community
+room requests and workshop registration. Members may suggest up
+to three books for purchase each month through their online
+account. Staff consider demand, cost, and available shelf space
+before accepting a suggestion. Suggesting a book does not
+automatically reserve it. This guide does not specify holiday
+closures, the number of parking spaces, or the library director's
+name. Questions about those details cannot be answered from this
+guide alone.
